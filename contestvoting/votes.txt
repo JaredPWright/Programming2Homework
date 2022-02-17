@@ -1,0 +1,23 @@
+22
+rhinoceros 1234567
+giraffe 5551234
+giraffe 5551234
+rhinoceros 9991212
+jaguar 6820093
+giraffe 5551234
+jaguar 9991212
+giraffe 5551234
+giraffe 5551234
+jaguar 9991212
+jaguar 9991212
+giraffe 5551234
+rhinoceros 3098441
+jaguar 6820093
+jaguar 2542889
+giraffe 7779877
+jaguar 6820093
+jaguar 3345009
+giraffe 5551234
+jaguar 7779877
+rhinoceros 7779877
+giraffe 5551234
